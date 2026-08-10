@@ -62,4 +62,10 @@ Currently, I'm practicing **Data Structures & Algorithms**, learning more about 
   </a>
 </p>
 
+---
+## Resume
+<a href="./resume.pdf">
+  <strong>📄 View My Resume</strong>
+</a>
+
 
