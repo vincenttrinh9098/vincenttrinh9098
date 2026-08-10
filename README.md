@@ -64,7 +64,7 @@ Currently, I'm practicing **Data Structures & Algorithms**, learning more about 
 
 ---
 ## Resume
-<a href="./resume.pdf">
+<a href="vincent-resume.pdf">
   <strong>📄 View My Resume</strong>
 </a>
 
