@@ -1,58 +1,53 @@
+# Hi, I'm Vincent 👋
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vincent+%F0%9F%91%8B;I'm+a+Software+Engineer;I'm+a+Computer+Science+Student;I+build+web+applications;I+love+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate+Student;Aspiring+Software+Engineer;Building+%26+Learning+Every+Day;Always+Exploring+New+Technologies" alt="Typing SVG" />
 </p>
 
-I'm a Computer Science graduate student at **UC San Diego** interested in software engineering, web development, systems, and machine learning.
+I'm a Computer Science graduate student at **UC San Diego** interested in software engineering, systems, web development, and machine learning.
 
-I enjoy building projects, learning new technologies, and solving challenging problems. Currently, I'm spending a lot of time strengthening my data structures & algorithms skills and exploring different areas of software engineering.
-
----
-
-## 🚀 Currently
-
-- 🎓 Pursuing my Master's in Computer Science at UC San Diego
-- 💻 Practicing Data Structures & Algorithms
-- 🌱 Learning more about system design, software architecture, and machine learning
-- 🔨 Building personal projects to apply what I learn
-- 🤝 Open to collaborating on interesting software projects
+Currently, I'm practicing **Data Structures & Algorithms**, learning more about **system design and software architecture**, and building projects to put what I learn into practice. I'm always open to collaborating on interesting projects!
 
 ---
-
 
 ## 🛠️ Tech Stack
 
-#### Languages
+**Languages**
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,haskell" width="180">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,haskell" width="160">
 </a>
 
-#### Web Development
+**Web & Frameworks**
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" width="180">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,express,vue" width="280">
 </a>
 
-#### Frameworks & Libraries
+**Tools & Platforms**
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,express,vue,vite,vitest" width="225">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,figma,vercel,vite,vitest" width="320">
 </a>
 
-#### Tools & Platforms
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,figma,vercel" width="270">
-</a>
+**Development**
 
-#### Development Environment
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vim,vscode,visualstudio,webstorm" width="180">
+  <img src="https://skillicons.dev/icons?i=vim,vscode,visualstudio,webstorm,sqlite,robloxstudio" width="240">
 </a>
-
-#### Other
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=robloxstudio,sqlite" width="90">
-</a>
-
 
 ---
+
+## 🚀 What I'm Exploring
+
+- 🧠 Machine Learning & AI
+- 🏗️ System Design & Software Architecture
+- 🌐 Web Development
+- 👨‍💻 Data Structures & Algorithms
+- 🔍 Computer Vision
+
+---
+
 ## 📫 Connect With Me
 
 <p>
