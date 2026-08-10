@@ -50,17 +50,17 @@ I enjoy building projects, learning new technologies, and solving challenging pr
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=robloxstudio,sqlite" width="90">
 </a>
-<!--
-**vincenttrinh9098/vincenttrinh9098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/vincent-trinh-3a9963277/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40">
+  </a>
+  <a href="https://github.com/vincenttrinh9098">
+    <img src="https://skillicons.dev/icons?i=github" width="40">
+  </a>
+</p>
+
+
