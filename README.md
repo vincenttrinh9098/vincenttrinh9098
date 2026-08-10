@@ -9,7 +9,6 @@ software engineering, AI, and systems.
 - 🌐 Full-stack web applications
 
 ## 🛠️ Tech Stack
-## 🛠️ Tech Stack
 
 #### Languages
 <a href="https://skillicons.dev">
