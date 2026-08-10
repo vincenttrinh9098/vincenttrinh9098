@@ -10,32 +10,32 @@ software engineering, AI, and systems.
 
 ## 🛠️ Tech Stack
 
-### Languages
+#### Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,haskell" width="180">
 </a>
 
-### Web Development
+#### Web Development
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" width="180">
 </a>
 
-### Frameworks & Libraries
+#### Frameworks & Libraries
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,express,vue,vite,vitest" width="225">
 </a>
 
-### Tools & Platforms
+#### Tools & Platforms
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,figma,vercel" width="270">
 </a>
 
-### Development Environment
+#### Development Environment
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vim,vscode,visualstudio,webstorm" width="180">
 </a>
 
-### Other
+#### Other
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=robloxstudio,sqlite" width="90">
 </a>
