@@ -8,31 +8,37 @@ software engineering, AI, and systems.
 - 🤖 AI / ML projects
 - 🌐 Full-stack web applications
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-**Programming Languages**
+### Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,haskell" width="180">
+</a>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,haskell)](https://skillicons.dev)
+### Web Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" width="180">
+</a>
 
-**Web Development**
+### Frameworks & Libraries
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,express,vue,vite,vitest" width="225">
+</a>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs)](https://skillicons.dev)
+### Tools & Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,figma,vercel" width="270">
+</a>
 
-**Frameworks & Libraries**
+### Development Environment
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vim,vscode,visualstudio,webstorm" width="180">
+</a>
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,vue,vite,vitest)](https://skillicons.dev)
-
-**Tools & Platforms**
-
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,firebase,figma,vercel)](https://skillicons.dev)
-
-**Development Environments**
-
-[![My Skills](https://skillicons.dev/icons?i=vim,vscode,visualstudio,webstorm)](https://skillicons.dev)
-
-**Other**
-
-[![My Skills](https://skillicons.dev/icons?i=robloxstudio,sqlite)](https://skillicons.dev)
+### Other
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=robloxstudio,sqlite" width="90">
+</a>
 
 <!--
 **vincenttrinh9098/vincenttrinh9098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
