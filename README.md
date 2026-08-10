@@ -10,9 +10,29 @@ software engineering, AI, and systems.
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,&perline=3)](https://skillicons.dev)
+**Programming Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,haskell)](https://skillicons.dev)
+
+**Web Development**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs)](https://skillicons.dev)
+
+**Frameworks & Libraries**
+
+[![My Skills](https://skillicons.dev/icons?i=react,express,vue,vite,vitest)](https://skillicons.dev)
+
+**Tools & Platforms**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,firebase,figma,vercel)](https://skillicons.dev)
+
+**Development Environments**
+
+[![My Skills](https://skillicons.dev/icons?i=vim,vscode,visualstudio,webstorm)](https://skillicons.dev)
+
+**Other**
+
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio,sqlite)](https://skillicons.dev)
 
 <!--
 **vincenttrinh9098/vincenttrinh9098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
