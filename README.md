@@ -37,7 +37,7 @@ software engineering, AI, and systems.
 
 #### Other
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=robloxstudio,sqlite" width="180">
+  <img src="https://skillicons.dev/icons?i=robloxstudio,sqlite" width="45">
 </a>
 
 <!--
