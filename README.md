@@ -21,7 +21,7 @@ Currently, I'm practicing **Data Structures & Algorithms**, learning more about 
 **Web & Frameworks**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,express,vue" width="280">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,express,vue,electron" width="280">
 </a>
 
 **Tools & Platforms**
