@@ -10,7 +10,8 @@ software engineering, AI, and systems.
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,&perline=3)](https://skillicons.dev)
 
 <!--
 **vincenttrinh9098/vincenttrinh9098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
