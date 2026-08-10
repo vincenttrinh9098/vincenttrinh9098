@@ -52,6 +52,7 @@ I enjoy building projects, learning new technologies, and solving challenging pr
 </a>
 
 
+---
 ## 📫 Connect With Me
 
 <p>
