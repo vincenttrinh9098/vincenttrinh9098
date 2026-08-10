@@ -8,9 +8,9 @@ software engineering, AI, and systems.
 - 🤖 AI / ML projects
 - 🌐 Full-stack web applications
 
-## 🛠️ Technologies
+## 🛠️ Skills
 
-C++ • Python • JavaScript • React • Git
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **vincenttrinh9098/vincenttrinh9098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
