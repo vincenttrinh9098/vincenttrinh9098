@@ -57,6 +57,9 @@ Currently, I'm practicing **Data Structures & Algorithms**, learning more about 
   <a href="https://github.com/vincenttrinh9098">
     <img src="https://skillicons.dev/icons?i=github" width="40">
   </a>
+  <a href="mailto:vincenttrinhnews90@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40">
+  </a>
 </p>
 
 
