@@ -1,4 +1,4 @@
-<p align="center" font-weight="bold"> Hi, I'm Vincent 👋</p>
+<p align="center" style="font-weight: bold;">Hi, I'm Vincent 👋</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate+Student;Aspiring+Software+Engineer;Building+%26+Learning+Every+Day;Always+Exploring+New+Technologies" alt="Typing SVG" />
 </p>
@@ -9,7 +9,7 @@ Currently, I'm practicing **Data Structures & Algorithms**, learning more about 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -37,7 +37,7 @@ Currently, I'm practicing **Data Structures & Algorithms**, learning more about 
 
 ---
 
-## 🚀 What I'm Exploring
+## What I'm Exploring
 
 - 🧠 Machine Learning & AI
 - 🏗️ System Design & Software Architecture
@@ -47,7 +47,7 @@ Currently, I'm practicing **Data Structures & Algorithms**, learning more about 
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/vincent-trinh-3a9963277/">
