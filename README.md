@@ -9,6 +9,7 @@ software engineering, AI, and systems.
 - 🌐 Full-stack web applications
 
 ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 #### Languages
 <a href="https://skillicons.dev">
@@ -27,7 +28,7 @@ software engineering, AI, and systems.
 
 #### Tools & Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,figma,vercel" width="225">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,figma,vercel" width="270">
 </a>
 
 #### Development Environment
@@ -37,9 +38,8 @@ software engineering, AI, and systems.
 
 #### Other
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=robloxstudio,sqlite" width="80">
+  <img src="https://skillicons.dev/icons?i=robloxstudio,sqlite" width="90">
 </a>
-
 <!--
 **vincenttrinh9098/vincenttrinh9098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
