@@ -1,5 +1,4 @@
-# Hi, I'm Vincent 👋
-
+<p align="center" font-weight="bold"> Hi, I'm Vincent 👋</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate+Student;Aspiring+Software+Engineer;Building+%26+Learning+Every+Day;Always+Exploring+New+Technologies" alt="Typing SVG" />
 </p>
