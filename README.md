@@ -22,12 +22,12 @@ software engineering, AI, and systems.
 
 #### Frameworks & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,express,vue,vite,vitest" width="180">
+  <img src="https://skillicons.dev/icons?i=react,express,vue,vite,vitest" width="225">
 </a>
 
 #### Tools & Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,figma,vercel" width="180">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,figma,vercel" width="225">
 </a>
 
 #### Development Environment
