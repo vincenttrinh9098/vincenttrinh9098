@@ -62,8 +62,8 @@ Currently, I'm practicing **Data Structures & Algorithms**, learning more about 
   </a>
 </p>
 
-[![Leetcode](leetcode.png)](https://leetcode.com/u/vkt5451/)
-[![Handshake](handshake.png)](https://app.joinhandshake.com/profiles/vktrinh)
+<a href="https://leetcode.com/u/vkt5451/"><img src="leetcode.png" width="100"></a>
+<a href="https://app.joinhandshake.com/profiles/vktrinh"><img src="handshake.png" width="100"></a>
 
 
 
