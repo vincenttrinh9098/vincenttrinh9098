@@ -62,6 +62,15 @@ Currently, I'm practicing **Data Structures & Algorithms**, learning more about 
   </a>
 </p>
 
+[![Leetcode](leetcode.png)](https://leetcode.com/u/vkt5451/)
+[![Handshake](handshake.png)](https://app.joinhandshake.com/profiles/vktrinh)
+
+
+
+
+
+
+
 ---
 ## Resume
 <a href="vincent-resume.pdf">
